@@ -1,11 +1,11 @@
 Package: forfun
-Title: What the Package Does (One Line, Title Case)
+Title: This package does literally NOTHING
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Sean",
+           family = "Davis",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "seandavi@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
